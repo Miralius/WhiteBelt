@@ -10,3 +10,4 @@ While belt stepik C++ course's solutions
   - Point 1.7: Conditional operator and cycles
     - Step 5: ["Division"](Division/main.cpp)
     - Step 6: ["A good price calculation"](AGoodPriceCalculation/main.cpp)
+    - Step 7: ["Even numbers"](EvenNumbers/main.cpp)
