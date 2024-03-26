@@ -1,0 +1,1 @@
+add_executable(GreatestCommonDivisor main.cpp)
