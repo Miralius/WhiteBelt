@@ -11,3 +11,4 @@ While belt stepik C++ course's solutions
     - Step 5: ["Division"](Division/main.cpp)
     - Step 6: ["A good price calculation"](AGoodPriceCalculation/main.cpp)
     - Step 7: ["Even numbers"](EvenNumbers/main.cpp)
+    - Step 8: ["The second entry"](TheSecondEntry/main.cpp)

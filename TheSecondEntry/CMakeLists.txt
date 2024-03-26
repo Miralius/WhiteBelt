@@ -1,0 +1,1 @@
+add_executable(TheSecondEntry main.cpp)
