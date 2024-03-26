@@ -13,3 +13,4 @@ While belt stepik C++ course's solutions
     - Step 7: ["Even numbers"](EvenNumbers/main.cpp)
     - Step 8: ["The second entry"](TheSecondEntry/main.cpp)
     - Step 9: ["Greatest common divisor"](GreatestCommonDivisor/main.cpp)
+    - Step 10: ["Binary numbers"](BinaryNumbers/main.cpp)
