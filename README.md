@@ -7,3 +7,5 @@ While belt stepik C++ course's solutions
   - Point 1.5: Operations
     - Step 4: ["Minimal line"](MinimalLine/main.cpp)
     - Step 5: ["Equation"](Equation/main.cpp)
+  - Point 1.7: Conditional operator and cycles
+    - Step 5: ["Division"](Division/main.cpp)
