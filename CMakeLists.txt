@@ -4,3 +4,4 @@ project(WhiteBelt)
 set(CMAKE_CXX_STANDARD 17)
 
 add_subdirectory(BinarySum)
+add_subdirectory(MinimalLine)
