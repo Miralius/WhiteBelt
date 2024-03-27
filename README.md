@@ -18,3 +18,4 @@ While belt stepik C++ course's solutions
   - Point 2.1: Functions
     - Step 3: ["Factorial"](Factorial/factorial.h)
     - Step 4: ["Palindrome"](Palindrome/palindrome.h)
+    - Step 5: ["Palindrome filter"](PalindromeFilter/main.cpp)
