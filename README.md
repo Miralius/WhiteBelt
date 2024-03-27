@@ -27,3 +27,4 @@ While belt stepik C++ course's solutions
   - Point 2.4: Vector container. Part 2
     - Step 5: ["Average temperature"](AverageTemperature/main.cpp)
     - Step 6: ["Queue"](Queue/main.cpp)
+    - Step 7: ["Monthly cases"](MonthlyCases/main.cpp)
