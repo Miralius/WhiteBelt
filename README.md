@@ -49,3 +49,4 @@ While belt stepik C++ course's solutions
   - Point 3.6: Constructors
     - Step 6: ["String"](String/main.cpp)
     - Step 7: ["First and last names 3"](FirstAndLastNames3/main.cpp)
+    - Step 8: ["Initialization methods"](InitializationMethods/main.cpp)

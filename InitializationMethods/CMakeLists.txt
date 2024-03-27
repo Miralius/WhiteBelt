@@ -1,0 +1,1 @@
+add_executable(InitializationMethods main.cpp)
