@@ -37,3 +37,4 @@ While belt stepik C++ course's solutions
     - Step 7: ["Unique row number"](UniqueRowNumber/main.cpp)
     - Step 8: ["Map value set"](MapValueSet/MapValueSet.h)
     - Step 9: ["Synonyms"](Synonyms/main.cpp)
+    - Step 10: ["Bus stops 3"](BusStops3/main.cpp)
