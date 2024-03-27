@@ -38,3 +38,6 @@ While belt stepik C++ course's solutions
     - Step 8: ["Map value set"](MapValueSet/MapValueSet.h)
     - Step 9: ["Synonyms"](Synonyms/main.cpp)
     - Step 10: ["Bus stops 3"](BusStops3/main.cpp)
+- Week 3: Algorithms and classes
+  - Point 3.1 Algorithms
+    - Step 8: ["Sorting integers modulo"](SortingIntegersModulo/main.cpp)
