@@ -1,0 +1,1 @@
+add_executable(FirstAndLastNames2 main.cpp)

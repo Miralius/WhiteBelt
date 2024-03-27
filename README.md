@@ -45,3 +45,4 @@ While belt stepik C++ course's solutions
   - Point 3.4 Structures and classes. Part 2
     - Step 4: ["Sorted strings"](SortedStrings/main.cpp)
     - Step 5: ["First and last names"](FirstAndLastNames/main.cpp)
+    - Step 6: ["First and last names 2"](FirstAndLastNames2/main.cpp)
