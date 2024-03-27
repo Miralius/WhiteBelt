@@ -30,3 +30,4 @@ While belt stepik C++ course's solutions
     - Step 7: ["Monthly cases"](MonthlyCases/main.cpp)
   - Point 2.5: Map container
     - Step 8: ["Anagrams"](Anagrams/main.cpp)
+    - Step 9: ["Capital directory"](CapitalDirectory/main.cpp)
