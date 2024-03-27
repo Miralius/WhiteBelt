@@ -23,3 +23,4 @@ While belt stepik C++ course's solutions
     - Step 1: ["Maximizer"](Maximizer/main.cpp)
     - Step 2: ["Move strings"](MoveStrings/main.cpp)
     - Step 3: ["Sequence reversal"](SequenceReversal/main.cpp)
+    - Step 4: ["Sequence reversal 2"](SequenceReversal2/main.cpp)
