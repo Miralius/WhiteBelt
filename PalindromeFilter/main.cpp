@@ -17,7 +17,7 @@ bool IsPalindrom(const std::string& word)
     return true;
 }
 
-std::vector<std::string> PalindromFilter(std::vector<std::string> words, int minLength)
+std::vector<std::string> PalindromFilter(const std::vector<std::string>& words, int minLength)
 {
     std::vector<std::string> filteredPalindromes{};
     for (const auto& word : words)
