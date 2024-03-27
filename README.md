@@ -24,3 +24,5 @@ While belt stepik C++ course's solutions
     - Step 2: ["Move strings"](MoveStrings/main.cpp)
     - Step 3: ["Sequence reversal"](SequenceReversal/main.cpp)
     - Step 4: ["Sequence reversal 2"](SequenceReversal2/main.cpp)
+  - Point 2.4: Vector container. Part 2
+    - Step 5: ["Average temperature"](AverageTemperature/main.cpp)

@@ -1,0 +1,1 @@
+add_executable(AverageTemperature main.cpp)
