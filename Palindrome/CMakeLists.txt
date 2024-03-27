@@ -1,0 +1,1 @@
+add_executable(Palindrome palindrome.h main.cpp)

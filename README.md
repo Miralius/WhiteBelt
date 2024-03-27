@@ -17,3 +17,4 @@ While belt stepik C++ course's solutions
 - Week 2: Functions and containers
   - Point 2.1: Functions
     - Step 3: ["Factorial"](Factorial/factorial.h)
+    - Step 4: ["Palindrome"](Palindrome/palindrome.h)
