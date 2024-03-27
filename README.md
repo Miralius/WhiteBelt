@@ -36,3 +36,4 @@ While belt stepik C++ course's solutions
   - Point 2.6: Set container
     - Step 7: ["Unique row number"](UniqueRowNumber/main.cpp)
     - Step 8: ["Map value set"](MapValueSet/MapValueSet.h)
+    - Step 9: ["Synonyms"](Synonyms/main.cpp)
