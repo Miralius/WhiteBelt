@@ -50,3 +50,6 @@ While belt stepik C++ course's solutions
     - Step 6: ["String"](String/main.cpp)
     - Step 7: ["First and last names 3"](FirstAndLastNames3/main.cpp)
     - Step 8: ["Initialization methods"](InitializationMethods/main.cpp)
+- Week 4: IO, exceptions, and operators overloading
+  - Point 4.1: Structures and classes: examples
+    - Step 2: ["LectureTitle structure"](LectureTitleStructure/main.cpp)
