@@ -21,3 +21,4 @@ While belt stepik C++ course's solutions
     - Step 5: ["Palindrome filter"](PalindromeFilter/main.cpp)
   - Point 2.2: Functions. Part 2
     - Step 1: ["Maximizer"](Maximizer/main.cpp)
+    - Step 2: ["Move strings"](MoveStrings/main.cpp)
