@@ -33,3 +33,5 @@ While belt stepik C++ course's solutions
     - Step 9: ["Capital directory"](CapitalDirectory/main.cpp)
     - Step 10: ["Bus stops"](BusStops/main.cpp)
     - Step 11: ["Bus stops 2"](BusStops2/main.cpp)
+  - Point 2.6: Set container
+    - Step 7: ["Unique row number"](UniqueRowNumber/main.cpp)
