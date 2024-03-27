@@ -14,3 +14,6 @@ While belt stepik C++ course's solutions
     - Step 8: ["The second entry"](TheSecondEntry/main.cpp)
     - Step 9: ["Greatest common divisor"](GreatestCommonDivisor/main.cpp)
     - Step 10: ["Binary numbers"](BinaryNumbers/main.cpp)
+- Week 2: Functions and containers
+  - Point 2.1: Functions
+    - Step 3: ["Factorial"](Factorial/factorial.h)

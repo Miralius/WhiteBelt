@@ -1,0 +1,1 @@
+add_executable(Factorial factorial.h main.cpp)
