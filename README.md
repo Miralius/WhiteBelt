@@ -35,3 +35,4 @@ While belt stepik C++ course's solutions
     - Step 11: ["Bus stops 2"](BusStops2/main.cpp)
   - Point 2.6: Set container
     - Step 7: ["Unique row number"](UniqueRowNumber/main.cpp)
+    - Step 8: ["Map value set"](MapValueSet/MapValueSet.h)
