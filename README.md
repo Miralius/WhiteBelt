@@ -28,3 +28,5 @@ While belt stepik C++ course's solutions
     - Step 5: ["Average temperature"](AverageTemperature/main.cpp)
     - Step 6: ["Queue"](Queue/main.cpp)
     - Step 7: ["Monthly cases"](MonthlyCases/main.cpp)
+  - Point 2.5: Map container
+    - Step 8: ["Anagrams"](Anagrams/main.cpp)
