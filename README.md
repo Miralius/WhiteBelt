@@ -42,3 +42,5 @@ While belt stepik C++ course's solutions
   - Point 3.1 Algorithms
     - Step 8: ["Sorting integers modulo"](SortingIntegersModulo/main.cpp)
     - Step 9: ["Case-insensitive sorting"](CaseInsensitiveSorting/main.cpp)
+  - Point 3.4 Structures and classes. Part 2
+    - Step 4: ["Sorted strings"](SortedStrings/main.cpp)
