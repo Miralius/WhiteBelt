@@ -48,3 +48,4 @@ While belt stepik C++ course's solutions
     - Step 6: ["First and last names 2"](FirstAndLastNames2/main.cpp)
   - Point 3.6: Constructors
     - Step 6: ["String"](String/main.cpp)
+    - Step 7: ["First and last names 3"](FirstAndLastNames3/main.cpp)
