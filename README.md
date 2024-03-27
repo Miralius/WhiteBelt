@@ -19,3 +19,5 @@ While belt stepik C++ course's solutions
     - Step 3: ["Factorial"](Factorial/factorial.h)
     - Step 4: ["Palindrome"](Palindrome/palindrome.h)
     - Step 5: ["Palindrome filter"](PalindromeFilter/main.cpp)
+  - Point 2.2: Functions. Part 2
+    - Step 1: ["Maximizer"](Maximizer/main.cpp)
