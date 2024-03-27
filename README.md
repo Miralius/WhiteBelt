@@ -31,3 +31,4 @@ While belt stepik C++ course's solutions
   - Point 2.5: Map container
     - Step 8: ["Anagrams"](Anagrams/main.cpp)
     - Step 9: ["Capital directory"](CapitalDirectory/main.cpp)
+    - Step 10: ["Bus stops"](BusStops/main.cpp)
