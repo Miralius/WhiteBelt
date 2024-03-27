@@ -44,3 +44,4 @@ While belt stepik C++ course's solutions
     - Step 9: ["Case-insensitive sorting"](CaseInsensitiveSorting/main.cpp)
   - Point 3.4 Structures and classes. Part 2
     - Step 4: ["Sorted strings"](SortedStrings/main.cpp)
+    - Step 5: ["First and last names"](FirstAndLastNames/main.cpp)
