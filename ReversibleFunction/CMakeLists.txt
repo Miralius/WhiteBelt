@@ -1,0 +1,1 @@
+add_executable(ReversibleFunction Function.h main.cpp)

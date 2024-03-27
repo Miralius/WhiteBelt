@@ -53,3 +53,4 @@ While belt stepik C++ course's solutions
 - Week 4: IO, exceptions, and operators overloading
   - Point 4.1: Structures and classes: examples
     - Step 2: ["LectureTitle structure"](LectureTitleStructure/main.cpp)
+    - Step 5: ["Reversible function"](ReversibleFunction/Function.h)
