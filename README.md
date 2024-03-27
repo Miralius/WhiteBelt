@@ -32,3 +32,4 @@ While belt stepik C++ course's solutions
     - Step 8: ["Anagrams"](Anagrams/main.cpp)
     - Step 9: ["Capital directory"](CapitalDirectory/main.cpp)
     - Step 10: ["Bus stops"](BusStops/main.cpp)
+    - Step 11: ["Bus stops 2"](BusStops2/main.cpp)
