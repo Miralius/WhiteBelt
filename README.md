@@ -39,10 +39,12 @@ While belt stepik C++ course's solutions
     - Step 9: ["Synonyms"](Synonyms/main.cpp)
     - Step 10: ["Bus stops 3"](BusStops3/main.cpp)
 - Week 3: Algorithms and classes
-  - Point 3.1 Algorithms
+  - Point 3.1: Algorithms
     - Step 8: ["Sorting integers modulo"](SortingIntegersModulo/main.cpp)
     - Step 9: ["Case-insensitive sorting"](CaseInsensitiveSorting/main.cpp)
-  - Point 3.4 Structures and classes. Part 2
+  - Point 3.4: Structures and classes. Part 2
     - Step 4: ["Sorted strings"](SortedStrings/main.cpp)
     - Step 5: ["First and last names"](FirstAndLastNames/main.cpp)
     - Step 6: ["First and last names 2"](FirstAndLastNames2/main.cpp)
+  - Point 3.6: Constructors
+    - Step 6: ["String"](String/main.cpp)
