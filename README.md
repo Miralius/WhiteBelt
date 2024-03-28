@@ -62,3 +62,4 @@ While belt stepik C++ course's solutions
         - Step 11: ["Working with files. Part 2"](WorkingWithFiles2/main.cpp)
         - Step 12: ["Output with accuracy"](OutputWithAccuracy/main.cpp)
         - Step 13: ["Reading and output of the table"](ReadingAndOutputOfTheTable/main.cpp)
+        - Step 14: ["Student list"](StudentList/main.cpp)
