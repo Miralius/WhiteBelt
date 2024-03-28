@@ -72,3 +72,4 @@ While belt stepik C++ course's solutions
     - Point 4.4: Exceptions
         - Step 5: ["EnsureEqual()"](EnsureEqual/main.cpp)
         - Step 6: ["Exceptions in the Rational class"](RationalClassExceptions/main.cpp)
+        - Step 7: ["Ordinary fractions calculator"](OrdinaryFractionsCalculator/main.cpp)
