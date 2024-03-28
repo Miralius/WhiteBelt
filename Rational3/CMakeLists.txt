@@ -1,0 +1,1 @@
+add_executable(Rational3 main.cpp)

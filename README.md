@@ -66,3 +66,4 @@ While belt stepik C++ course's solutions
     - Point 4.3: Operations execution by 'nature' way (operators overloading)
         - Step 3: ["Rational"](Rational/main.cpp)
         - Step 4: ["Rational 2 (==, +, -)"](Rational2/main.cpp)
+        - Step 5: ["Rational 3 (* and /)"](Rational3/main.cpp)
