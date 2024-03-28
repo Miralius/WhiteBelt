@@ -1,0 +1,1 @@
+add_executable(ReversibleFunctionWithMultiplicationAndDivision Function.h main.cpp)
