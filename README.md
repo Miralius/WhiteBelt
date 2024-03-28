@@ -1,6 +1,6 @@
 # WhiteBelt
 
-While belt stepik C++ course's solutions
+White belt stepik C++ course's solutions
 
 - Week 1: Introduction in C++
     - Point 1.4: Work in Eclipse
