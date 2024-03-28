@@ -1,0 +1,1 @@
+add_executable(Rational5 main.cpp)
