@@ -59,3 +59,4 @@ While belt stepik C++ course's solutions
           ](ReversibleFunctionWithMultiplicationAndDivision/Function.h)
     - Point 4.2: Working with text files and streams
         - Step 10: ["Working with files"](WorkingWithFiles/main.cpp)
+        - Step 11: ["Working with files. Part 2"](WorkingWithFiles2/main.cpp)
