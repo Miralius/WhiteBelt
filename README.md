@@ -67,3 +67,4 @@ While belt stepik C++ course's solutions
         - Step 3: ["Rational"](Rational/main.cpp)
         - Step 4: ["Rational 2 (==, +, -)"](Rational2/main.cpp)
         - Step 5: ["Rational 3 (* and /)"](Rational3/main.cpp)
+        - Step 6: ["Rational 4 (>> and <<)"](Rational4/main.cpp)
