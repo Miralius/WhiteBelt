@@ -63,3 +63,6 @@ While belt stepik C++ course's solutions
         - Step 12: ["Output with accuracy"](OutputWithAccuracy/main.cpp)
         - Step 13: ["Reading and output of the table"](ReadingAndOutputOfTheTable/main.cpp)
         - Step 14: ["Student list"](StudentList/main.cpp)
+    - Point 4.3: Operations execution by 'nature' way (operators overloading)
+        - Step 3: ["Rational"](Rational/main.cpp)
+        - Step 4: ["Rational 2 (==, +, -)"](Rational2/main.cpp)
