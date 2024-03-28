@@ -71,3 +71,4 @@ While belt stepik C++ course's solutions
         - Step 7: ["Rational 5 (<)"](Rational5/main.cpp)
     - Point 4.4: Exceptions
         - Step 5: ["EnsureEqual()"](EnsureEqual/main.cpp)
+        - Step 6: ["Exceptions in the Rational class"](RationalClassExceptions/main.cpp)
