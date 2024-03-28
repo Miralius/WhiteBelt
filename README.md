@@ -74,3 +74,6 @@ While belt stepik C++ course's solutions
         - Step 6: ["Exceptions in the Rational class"](RationalClassExceptions/main.cpp)
         - Step 7: ["Ordinary fractions calculator"](OrdinaryFractionsCalculator/main.cpp)
         - Step 8: ["Working with time-server"](TimeServer/main.cpp)
+- Week 5: The first exam task
+    - Point 5.1: Final project
+        - Step 2: ["Final"](Final/main.cpp)
